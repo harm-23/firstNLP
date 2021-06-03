@@ -1,4 +1,4 @@
-# firstrepository
+# Language Detector
 Dataset from: https://www.kaggle.com/basilb2s/language-detection
 
 #steps
